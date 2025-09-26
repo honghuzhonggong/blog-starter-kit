@@ -6,7 +6,7 @@ const Header = () => {
       <Link href="/" className="hover:underline">
         File Translater
       </Link>
-      .
+      
     </h2>
   );
 };
