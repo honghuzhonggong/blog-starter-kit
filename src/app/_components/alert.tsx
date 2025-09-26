@@ -14,7 +14,7 @@ const Alert = ({ preview }: Props) => {
         "bg-neutral-50 border-neutral-200": !preview,
       })}
     >
-      <Container>
+      {/* <Container>
         <div className="py-2 text-center text-sm">
           {preview ? (
             <>
@@ -27,9 +27,20 @@ const Alert = ({ preview }: Props) => {
               </a>{" "}
               to exit preview mode.
             </>
+          ) : (
+            <>
+              The source code for this blog is{" "}
+              <a
+                href={`https://github.com/vercel/next.js/tree/canary/examples/${EXAMPLE_PATH}`}
+                className="underline hover:text-blue-600 duration-200 transition-colors"
+              >
+                available on GitHub
+              </a>
+              .
+            </>
           )}
         </div>
-      </Container>
+      </Container> */}
     </div>
   );
 };
