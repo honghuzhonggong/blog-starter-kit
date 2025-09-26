@@ -27,17 +27,6 @@ const Alert = ({ preview }: Props) => {
               </a>{" "}
               to exit preview mode.
             </>
-          ) : (
-            // <>
-            //   The source code for this blog is{" "}
-            //   <a
-            //     href={`https://github.com/vercel/next.js/tree/canary/examples/${EXAMPLE_PATH}`}
-            //     className="underline hover:text-blue-600 duration-200 transition-colors"
-            //   >
-            //     available on GitHub
-            //   </a>
-            //   .
-            // </>
           )}
         </div>
       </Container>
