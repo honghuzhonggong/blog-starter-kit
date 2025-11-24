@@ -1,13 +1,13 @@
 ---
 title: "Our Story Has Begun"
 excerpt: "Every great journey begins with a simple first step. Today, we have finally taken this solid step and released the first preview version of File Translator."
-coverImage: "/assets/blog/image/single.jpg"
+coverImage: "/assets/blog/image/20241125.png"
 date: "2024-11-25T05:35:07.322Z"
 author:
   name: chengbin
   picture: "/assets/blog/authors/ganggang.jpg"
 ogImage:
-  url: "/assets/blog/image/20241125.png"
+  url: "/assets/blog/image/single.jpg"
 ---
 
 ## The beginning:"Is there anything better than Google translate? "
