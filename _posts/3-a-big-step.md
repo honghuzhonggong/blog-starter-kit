@@ -1,6 +1,6 @@
 ---
-title: "Our Story Has Begun"
-excerpt: "Every great journey begins with a simple first step. Today, we have finally taken this solid step and released the first preview version of File Translator."
+title: "A Big Step"
+excerpt: "Once a core function is verified, the pace of innovation cannot stop. After Excel translation gradually stabilized, we began to consider a more ambitious blueprint: Could Word and PowerPoint also enjoy the convenience of AI translation? This time, we have embarked on a journey of multi-front operations."
 coverImage: "/assets/blog/image/ladder.jpg"
 date: "2025-02-24T05:35:07.322Z"
 author:
@@ -10,18 +10,11 @@ ogImage:
   url: "/assets/blog/image/ladder.jpg"
 ---
 
-## Become a versatile office translation assistant
+## Multi-front operations from Excel to Word and PPT
 
 After the Excel translation function became stable, we witnessed the first major capability expansion of File Translator. Our goal is to transform it from a tool adept at handling tables into a versatile one capable of handling various office scenarios.
 
 Version v1.1.0 marks that we have officially provided initial translation support for Word and PowerPoint. This step may seem simple, but in fact, it leads into a completely new realm. Unlike structured Excel, Word and PPT are filled with complex formats, text boxes and diverse objects. How to accurately extract text and maintain its basic structure is the primary challenge we face.
-
-## Become a versatile office translation assistant
-
-After the Excel translation function became stable, we witnessed the first major capability expansion of File Translator. Our goal is to transform it from a tool adept at handling tables into a versatile one capable of handling various office scenarios.
-
-Version v1.1.0 marks that we have officially provided initial translation support for Word and PowerPoint. This step may seem simple, but in fact, it leads into a completely new realm. Unlike structured Excel, Word and PPT are filled with complex formats, text boxes and diverse objects. How to accurately extract text and maintain its basic structure is the primary challenge we face.
-
 
 
 ## A comprehensive upgrade of the "heart" and "face"
