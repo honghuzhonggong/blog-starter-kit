@@ -18,6 +18,10 @@ Another thorny issue is that the existing translation tools on the market, on th
 
 This idea became the starting point of the File Translator project.
 
+---
+coverImage: "/assets/blog/image/20241125.png"
+---
+
 ## The regret of the first edition and the blueprint for the future
 
 In v1.0.0, we clearly know that there are still many things left undone:
