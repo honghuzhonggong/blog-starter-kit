@@ -10,7 +10,7 @@ ogImage:
   url: "/assets/blog/image/ladder.jpg"
 ---
 
-## An experience Revolution from "usable" to "user-friendly
+## An experience Revolution from "usable" to "user-friendly"
 
 At this stage, we are committed to making every function transform from "usable" to "user-friendly".
 
