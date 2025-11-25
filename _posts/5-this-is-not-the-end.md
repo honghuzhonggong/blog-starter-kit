@@ -41,4 +41,4 @@ From v1.0.0 to v1.7.6, the functional iteration of KB Translator for Windows has
 
 As Churchill said, "Now this is not the end. It is not even the beginning of the end. But it is, perhaps, the end of the beginning."
 
-We will restructure the project to make it cross-platform, allowing the core experience of KB Translator to break through the boundaries of Windows and run smoothly on macOS, Linux, browser, iOS and Android.
+We will restructure the project to make it cross-platform, allowing the core experience of File Translator to break through the boundaries of Windows and run smoothly on macOS, Linux, browser, iOS and Android.
