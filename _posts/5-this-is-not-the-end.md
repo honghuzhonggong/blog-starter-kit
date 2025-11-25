@@ -1,13 +1,13 @@
 ---
 title: "This Is Not The End"
 excerpt: "Looking back on the journey of the past year, File Translator has grown from a tiny seed into a big tree that can shelter users from the wind and rain. This final stage of update is our final sprint towards the ultimate goal of professionalism, intelligence and stability."
-coverImage: "/assets/blog/image/20251106.png"
+coverImage: "/assets/blog/image/single.jpg"
 date: "2025-11-06T05:35:07.322Z"
 author:
   name: chengbin
   picture: "/assets/blog/authors/ganggang.jpg"
 ogImage:
-  url: "/assets/blog/image/20251106.png"
+  url: "/assets/blog/image/single.jpg"
 ---
 
 ## Towards becoming an intelligent and stable professional translation partner
