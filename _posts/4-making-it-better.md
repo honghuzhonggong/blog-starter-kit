@@ -1,13 +1,13 @@
 ---
 title: "Making It Better"
 excerpt: "After the basic framework of the tool was solidified, we entered the polishing stage. The updates during this period are no longer merely about adding functions from scratch, but rather about elevating the experience and delving deeper into problems from having to being better. At this stage, we are committed to making every function transform from usable to user-friendly."
-coverImage: "/assets/blog/image/ladder.jpg"
+coverImage: "/assets/blog/image/20250509.png"
 date: "2025-05-19T05:35:07.322Z"
 author:
   name: chengbin
   picture: "/assets/blog/authors/ganggang.jpg"
 ogImage:
-  url: "/assets/blog/image/ladder.jpg"
+  url: "/assets/blog/image/20250509.png"
 ---
 
 ## An experience Revolution from "usable" to "user-friendly"
