@@ -19,7 +19,7 @@ export function PostHeader({ title, coverImage, date, author }: Props) {
         <Avatar name={author.name} picture={author.picture} />
       </div>
       {/* 添加 max-w-3xl 限制图片宽度，mx-auto 实现居中 */}
-      <div className="mb-8 md:mb-16 max-w-3xl mx-auto">
+      <div className="mb-8 md:mb-16 max-w-5xl mx-auto">
         <CoverImage title={title} src={coverImage} />
       </div>
       <div className="max-w-2xl mx-auto">
