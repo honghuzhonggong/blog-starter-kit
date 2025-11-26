@@ -12,7 +12,9 @@ ogImage:
 
 ## Towards becoming an intelligent and stable professional translation partner
 
-In v1.6.0, we reached a milestone: the first version of the direct translation function for PDF. Due to its fixed layout and complex structure, PDF has always been a difficult point in the field of document processing. We tried many methods, starting with supporting simple text, images and tables. Through continuous optimization of several versions - improving layout analysis, recognizing text alignment, and supporting cell merging - we eventually enabled File Translator to have the ability to handle this "ultimate form" of documents.
+In v1.6.0, we reached a milestone: the first version of the direct translation function for PDF. Due to its fixed layout and complex structure, PDF has always been a difficult point in the field of document processing. We tried many methods, starting with supporting simple text, images and tables. 
+
+Through continuous optimization of several versions - improving layout analysis, recognizing text alignment, and supporting cell merging - we eventually enabled File Translator to have the ability to handle this "ultimate form" of documents.
 
 
 ## Become a truly "configurable" platform
