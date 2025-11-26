@@ -6,7 +6,8 @@ type Props = {
 
 export function PostBody({ content }: Props) {
   return (
-    <div className="max-w-4xl mx-auto">
+    // 更改此处可以修改正文的宽度，数字可以是234567，或者直接删除max-w-...这个类，或max-w-none
+    <div className="max-w-5xl mx-auto">
       <div
         className={markdownStyles["markdown"]}
         dangerouslySetInnerHTML={{ __html: content }}
