@@ -1,6 +1,6 @@
 import Container from "@/app/_components/container";
 import { EXAMPLE_PATH } from "@/lib/constants";
-import Link from "next/Link";
+import Link from "next/link";
 
 export function Footer() {
   return (
