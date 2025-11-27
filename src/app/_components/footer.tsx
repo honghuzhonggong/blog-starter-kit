@@ -10,7 +10,7 @@ export function Footer() {
 
           {/* 左侧：标语或版权 */}
           <div className="lg:w-1/2 mb-10 lg:mb-0 text-center lg:text-left">
-            <h3 className="text-4xl lg:text-[2.5rem] font-bold tracking-tighter leading-tight text-center mb-2">
+            <h3 className="text-4xl lg:text-[2.5rem] font-bold tracking-tighter leading-tight text-left mb-2">
               Power by TRANSLATECH.
             </h3> 
             <p className="text-gray-500 text-lg">
@@ -22,7 +22,7 @@ export function Footer() {
           <div className="flex flex-col lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2 gap-6">
             <a
               href="https://nextjs.org/docs"
-              className="bg-black hover:bg-white hover:text-black border border-black text-white font-bold py-3 px-12 duration-200 transition-colors"
+              className="bg-black hover:bg-white hover:text-black border border-black text-white font-bold py-3 px-6 duration-200 transition-colors"
             >
               Documentation
             </a>
@@ -34,7 +34,7 @@ export function Footer() {
             </a>
 
             {/* 一些普通的文字链接 */}
-            <div className="flex flex-col lg:flex-row gap-4 font-bold">
+            <div className="flex flex-col lg:flex-row gap-6 font-bold">
               <Link href="/privacy" className="hover:underline">
                 Privacy Policy
               </Link>
