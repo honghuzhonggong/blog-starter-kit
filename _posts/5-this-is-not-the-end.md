@@ -39,7 +39,7 @@ It can remember the user's preferences, prevent the software interface from goin
 
 ## The end of one journey, the beginning of next
 
-From v1.0.0 to v1.7.6, the functional iteration of KB Translator for Windows has been successfully completed at this moment. This is not the end of the story, but rather a semicolon we have drawn for this journey of focus and in-depth exploration.
+From v1.0.0 to v1.7.6, the functional iteration of File Translator for Windows has been successfully completed at this moment. This is not the end of the story, but rather a semicolon we have drawn for this journey of focus and in-depth exploration.
 
 As Churchill said, "Now this is not the end. It is not even the beginning of the end. But it is, perhaps, the end of the beginning."
 
